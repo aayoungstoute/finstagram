@@ -1,4 +1,3 @@
-configure do
   configure do
     # Log queries to STDOUT in development
     if Sinatra::Application.development?
